@@ -18,7 +18,8 @@ The waterfall chart shows how the total income is broken down into salary, tax, 
 - **Net Income:** $77,000
 
 ### **Screenshot:**
-![Waterfall Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Waterfall.png)
+<img width="750" alt="Income Breakdown in Waterfall Chart" src="https://github.com/user-attachments/assets/b868a0b5-480f-4752-9053-ccd814dddc0e" />
+
 
 
 ---
@@ -37,7 +38,7 @@ The funnel chart displays the expenses in descending order, starting with the la
 - **Mobile Bill:** $1,000
 
 ### **Screenshot:**
-![Funnel Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Funnel_chart.png)
+<img width="750" alt="Expenses in Funnel Chart" src="https://github.com/user-attachments/assets/361e7094-2c74-4ebc-ac40-d8da94bf0ae3" />
 
 
 ---
@@ -48,7 +49,7 @@ The funnel chart displays the expenses in descending order, starting with the la
 The donut chart visualizes the percentage of total income allocated to expenses. It highlights that 64% of the net income is spent on expenses.
 
 ### **Screenshot:**
-![Donut Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Donut_chart.png)
+<img width="750" alt="Expenses in Percentage in Donut Chart" src="https://github.com/user-attachments/assets/567514f6-f415-4405-952a-6f41bcbc58c4" />
 
 
 ---
