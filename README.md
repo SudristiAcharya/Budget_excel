@@ -18,9 +18,8 @@ The waterfall chart shows how the total income is broken down into salary, tax, 
 - **Net Income:** $77,000
 
 ### **Screenshot:**
-![Waterfall Chart](images/waterfall_chart.png)
+![Waterfall Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Waterfall.png)
 
-Or view the [Waterfall Chart Excel File](https://github.com/SudristiAcharya/Budget_excel/blob/main/Budget_excel.xlsx).
 
 ---
 
@@ -38,9 +37,8 @@ The funnel chart displays the expenses in descending order, starting with the la
 - **Mobile Bill:** $1,000
 
 ### **Screenshot:**
-![Funnel Chart](images/funnel_chart.png)
+![Funnel Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Funnel_chart.png)
 
-Or view the [Funnel Chart Excel File](https://github.com/SudristiAcharya/Budget_excel/blob/main/Budget_excel.xlsx).
 
 ---
 
@@ -50,9 +48,8 @@ Or view the [Funnel Chart Excel File](https://github.com/SudristiAcharya/Budget_
 The donut chart visualizes the percentage of total income allocated to expenses. It highlights that 64% of the net income is spent on expenses.
 
 ### **Screenshot:**
-![Donut Chart](images/donut_chart.png)
+![Donut Chart](https://github.com/SudristiAcharya/Budget_excel/blob/main/Donut_chart.png)
 
-Or view the [Donut Chart Excel File](https://github.com/SudristiAcharya/Budget_excel/blob/main/Budget_excel.xlsx).
 
 ---
 
@@ -69,7 +66,7 @@ Or view the [Donut Chart Excel File](https://github.com/SudristiAcharya/Budget_e
 
 ### **3. Customization:**
 - Modify the colors, labels, and styles of the charts to suit your preferences.
-- Ensure the charts include both values (e.g., $38,000 for Rent) and percentages (e.g., 64% for Expenses).
+
 
 ---
 
